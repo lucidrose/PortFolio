@@ -1,0 +1,10 @@
+C:\Users\jhm\Desktop\Project\CSharpStudy\Study_while_doWhile\Study_while_doWhile\bin\Debug\Study_while_doWhile.exe.config
+C:\Users\jhm\Desktop\Project\CSharpStudy\Study_while_doWhile\Study_while_doWhile\bin\Debug\Study_while_doWhile.exe
+C:\Users\jhm\Desktop\Project\CSharpStudy\Study_while_doWhile\Study_while_doWhile\bin\Debug\Study_while_doWhile.pdb
+C:\Users\jhm\Desktop\Project\CSharpStudy\Study_while_doWhile\Study_while_doWhile\obj\Debug\Study_while_doWhile.csprojAssemblyReference.cache
+C:\Users\jhm\Desktop\Project\CSharpStudy\Study_while_doWhile\Study_while_doWhile\obj\Debug\Study_while_doWhile.Form1.resources
+C:\Users\jhm\Desktop\Project\CSharpStudy\Study_while_doWhile\Study_while_doWhile\obj\Debug\Study_while_doWhile.Properties.Resources.resources
+C:\Users\jhm\Desktop\Project\CSharpStudy\Study_while_doWhile\Study_while_doWhile\obj\Debug\Study_while_doWhile.csproj.GenerateResource.cache
+C:\Users\jhm\Desktop\Project\CSharpStudy\Study_while_doWhile\Study_while_doWhile\obj\Debug\Study_while_doWhile.csproj.CoreCompileInputs.cache
+C:\Users\jhm\Desktop\Project\CSharpStudy\Study_while_doWhile\Study_while_doWhile\obj\Debug\Study_while_doWhile.exe
+C:\Users\jhm\Desktop\Project\CSharpStudy\Study_while_doWhile\Study_while_doWhile\obj\Debug\Study_while_doWhile.pdb
