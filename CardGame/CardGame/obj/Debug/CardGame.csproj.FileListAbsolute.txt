@@ -1,0 +1,10 @@
+C:\Users\jhm\Desktop\Project\Git\Portfolio\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\jhm\Desktop\Project\Git\Portfolio\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\jhm\Desktop\Project\Git\Portfolio\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\jhm\Desktop\Project\Git\Portfolio\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\jhm\Desktop\Project\Git\Portfolio\CardGame\CardGame\obj\Debug\CardGame.MainForm.resources
+C:\Users\jhm\Desktop\Project\Git\Portfolio\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\jhm\Desktop\Project\Git\Portfolio\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\jhm\Desktop\Project\Git\Portfolio\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\jhm\Desktop\Project\Git\Portfolio\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\jhm\Desktop\Project\Git\Portfolio\CardGame\CardGame\obj\Debug\CardGame.pdb
