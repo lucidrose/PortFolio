@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Study_while_doWhile
+namespace LottoGenerator
 {
     public partial class MainForm : Form
     {
@@ -17,11 +17,10 @@ namespace Study_while_doWhile
             InitializeComponent();
         }
 
-        private void btnWhileResult_Click(object sender, EventArgs e)
-        {
-            // 1~ 45 6개의 번호
-            // List<int> list = new List<int>();
+      
 
+        private void btnLottoNumber_Click(object sender, EventArgs e)
+        {
             int[] array = new int[6];
             int count = 0;
 
@@ -31,12 +30,12 @@ namespace Study_while_doWhile
 
             // Array가 다 안차면 계속 진행
 
-            while(Array.IndexOf(array,0) != -1) // 0인 값이 있으면 진행, 없으면 -1이니깐 while문 종료
+            while (Array.IndexOf(array, 0) != -1) // 0인 값이 있으면 진행, 없으면 -1이니깐 while문 종료
             {
                 int number = rd.Next(1, 46); // 1<= x < 46
 
                 // 중복된 값
-                if(Array.IndexOf(array,number) == -1)   // array에 number 값이 없으면
+                if (Array.IndexOf(array, number) == -1)   // array에 number 값이 없으면
                 {
                     array[count] = number;
                     //sb.Append(string.Format("{0}. ", number));
@@ -53,12 +52,11 @@ namespace Study_while_doWhile
             }
 
 
-            lblwhileResult.Text = sb.ToString();
-            lbxwhileResult.Items.Add(sb.ToString());
-
+            lblLottoResult.Text = sb.ToString();
+            lbxResult.Items.Add(sb.ToString());
         }
 
-        private void btnDoWhileResult_Click(object sender, EventArgs e)
+        private void btnSelectNumber_Click(object sender, EventArgs e)
         {
             Random rd = new Random();
 
@@ -67,7 +65,7 @@ namespace Study_while_doWhile
             int checkNumber = 0;
             int count = 0;
 
-            if(number <1 || number > 100)
+            if (number < 1 || number > 100)
             {
                 MessageBox.Show("1~100 사이의 숫자를 지정해 주세요");
                 return;
@@ -80,7 +78,7 @@ namespace Study_while_doWhile
 
             } while (number != checkNumber);
 
-            lblDoWhileResult.Text = string.Format("- 뽑은 숫자 {0}을 {1}회 만에 찾았습니다.", number, count);
+            lblSelectNumberResult.Text = string.Format("- 뽑은 숫자 {0}을 {1}회 만에 찾았습니다.", number, count);
         }
     }
 }

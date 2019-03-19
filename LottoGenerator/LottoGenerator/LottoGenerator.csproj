@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5615D17D-A329-4455-ABC8-F6D3EBC4F3ED}</ProjectGuid>
+    <ProjectGuid>{2286DAF8-9EB0-49D0-94FC-44954D8FC261}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Study_while_doWhile</RootNamespace>
-    <AssemblyName>Study_while_doWhile</AssemblyName>
+    <RootNamespace>LottoGenerator</RootNamespace>
+    <AssemblyName>LottoGenerator</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottoGenerator", "Study_while_doWhile\LottoGenerator.csproj", "{5615D17D-A329-4455-ABC8-F6D3EBC4F3ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottoGenerator", "LottoGenerator\LottoGenerator.csproj", "{2286DAF8-9EB0-49D0-94FC-44954D8FC261}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5615D17D-A329-4455-ABC8-F6D3EBC4F3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5615D17D-A329-4455-ABC8-F6D3EBC4F3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5615D17D-A329-4455-ABC8-F6D3EBC4F3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5615D17D-A329-4455-ABC8-F6D3EBC4F3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2286DAF8-9EB0-49D0-94FC-44954D8FC261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2286DAF8-9EB0-49D0-94FC-44954D8FC261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2286DAF8-9EB0-49D0-94FC-44954D8FC261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2286DAF8-9EB0-49D0-94FC-44954D8FC261}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8220E34F-96F8-48DE-AFBB-009A405FB870}
+		SolutionGuid = {2F1F3767-6587-4916-860B-EFAFD78E1F36}
 	EndGlobalSection
 EndGlobal

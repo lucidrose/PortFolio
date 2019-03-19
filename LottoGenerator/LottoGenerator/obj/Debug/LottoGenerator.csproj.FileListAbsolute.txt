@@ -1,10 +1,10 @@
-C:\Users\jhm\Desktop\Project\Git\Portfolio\Lotto Generator\Study_while_doWhile\bin\Debug\Study_while_doWhile.exe.config
-C:\Users\jhm\Desktop\Project\Git\Portfolio\Lotto Generator\Study_while_doWhile\bin\Debug\Study_while_doWhile.exe
-C:\Users\jhm\Desktop\Project\Git\Portfolio\Lotto Generator\Study_while_doWhile\bin\Debug\Study_while_doWhile.pdb
-C:\Users\jhm\Desktop\Project\Git\Portfolio\Lotto Generator\Study_while_doWhile\obj\Debug\LottoGenerator.csprojAssemblyReference.cache
-C:\Users\jhm\Desktop\Project\Git\Portfolio\Lotto Generator\Study_while_doWhile\obj\Debug\Study_while_doWhile.Properties.Resources.resources
-C:\Users\jhm\Desktop\Project\Git\Portfolio\Lotto Generator\Study_while_doWhile\obj\Debug\LottoGenerator.csproj.GenerateResource.cache
-C:\Users\jhm\Desktop\Project\Git\Portfolio\Lotto Generator\Study_while_doWhile\obj\Debug\LottoGenerator.csproj.CoreCompileInputs.cache
-C:\Users\jhm\Desktop\Project\Git\Portfolio\Lotto Generator\Study_while_doWhile\obj\Debug\Study_while_doWhile.exe
-C:\Users\jhm\Desktop\Project\Git\Portfolio\Lotto Generator\Study_while_doWhile\obj\Debug\Study_while_doWhile.pdb
-C:\Users\jhm\Desktop\Project\Git\Portfolio\Lotto Generator\Study_while_doWhile\obj\Debug\Study_while_doWhile.MainForm.resources
+C:\Users\jhm\Desktop\Project\Git\Portfolio\LottoGenerator\LottoGenerator\bin\Debug\LottoGenerator.exe.config
+C:\Users\jhm\Desktop\Project\Git\Portfolio\LottoGenerator\LottoGenerator\bin\Debug\LottoGenerator.exe
+C:\Users\jhm\Desktop\Project\Git\Portfolio\LottoGenerator\LottoGenerator\bin\Debug\LottoGenerator.pdb
+C:\Users\jhm\Desktop\Project\Git\Portfolio\LottoGenerator\LottoGenerator\obj\Debug\LottoGenerator.csprojAssemblyReference.cache
+C:\Users\jhm\Desktop\Project\Git\Portfolio\LottoGenerator\LottoGenerator\obj\Debug\LottoGenerator.MainForm.resources
+C:\Users\jhm\Desktop\Project\Git\Portfolio\LottoGenerator\LottoGenerator\obj\Debug\LottoGenerator.Properties.Resources.resources
+C:\Users\jhm\Desktop\Project\Git\Portfolio\LottoGenerator\LottoGenerator\obj\Debug\LottoGenerator.csproj.GenerateResource.cache
+C:\Users\jhm\Desktop\Project\Git\Portfolio\LottoGenerator\LottoGenerator\obj\Debug\LottoGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jhm\Desktop\Project\Git\Portfolio\LottoGenerator\LottoGenerator\obj\Debug\LottoGenerator.exe
+C:\Users\jhm\Desktop\Project\Git\Portfolio\LottoGenerator\LottoGenerator\obj\Debug\LottoGenerator.pdb

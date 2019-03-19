@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Study_while_doWhile.Properties
+namespace LottoGenerator.Properties
 {
 
 

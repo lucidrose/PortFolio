@@ -1,4 +1,4 @@
-﻿namespace Study_while_doWhile
+﻿namespace LottoGenerator
 {
     partial class MainForm
     {
@@ -28,121 +28,119 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lblwhileResult = new System.Windows.Forms.Label();
-            this.lbxwhileResult = new System.Windows.Forms.ListBox();
-            this.btnWhileResult = new System.Windows.Forms.Button();
+            this.lblSelectNumberResult = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
             this.tbxNumber = new System.Windows.Forms.TextBox();
-            this.btnDoWhileResult = new System.Windows.Forms.Button();
-            this.lblDoWhileResult = new System.Windows.Forms.Label();
+            this.btnSelectNumber = new System.Windows.Forms.Button();
+            this.btnLottoNumber = new System.Windows.Forms.Button();
+            this.lbxResult = new System.Windows.Forms.ListBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.lblLottoResult = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // lblwhileResult
+            // lblSelectNumberResult
             // 
-            this.lblwhileResult.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.lblwhileResult.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblwhileResult.Location = new System.Drawing.Point(16, 13);
-            this.lblwhileResult.Name = "lblwhileResult";
-            this.lblwhileResult.Size = new System.Drawing.Size(260, 27);
-            this.lblwhileResult.TabIndex = 0;
-            this.lblwhileResult.Text = "0. 0. 0. 0. 0. 0.";
-            this.lblwhileResult.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // lbxwhileResult
-            // 
-            this.lbxwhileResult.FormattingEnabled = true;
-            this.lbxwhileResult.ItemHeight = 12;
-            this.lbxwhileResult.Location = new System.Drawing.Point(16, 48);
-            this.lbxwhileResult.Name = "lbxwhileResult";
-            this.lbxwhileResult.Size = new System.Drawing.Size(260, 196);
-            this.lbxwhileResult.TabIndex = 1;
-            // 
-            // btnWhileResult
-            // 
-            this.btnWhileResult.Location = new System.Drawing.Point(289, 15);
-            this.btnWhileResult.Name = "btnWhileResult";
-            this.btnWhileResult.Size = new System.Drawing.Size(106, 23);
-            this.btnWhileResult.TabIndex = 2;
-            this.btnWhileResult.Text = "로또 번호";
-            this.btnWhileResult.UseVisualStyleBackColor = true;
-            this.btnWhileResult.Click += new System.EventHandler(this.btnWhileResult_Click);
+            this.lblSelectNumberResult.AutoSize = true;
+            this.lblSelectNumberResult.Location = new System.Drawing.Point(12, 323);
+            this.lblSelectNumberResult.Name = "lblSelectNumberResult";
+            this.lblSelectNumberResult.Size = new System.Drawing.Size(11, 12);
+            this.lblSelectNumberResult.TabIndex = 10;
+            this.lblSelectNumberResult.Text = "-";
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel1.Location = new System.Drawing.Point(16, 250);
+            this.panel1.Location = new System.Drawing.Point(12, 250);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(376, 3);
-            this.panel1.TabIndex = 3;
+            this.panel1.TabIndex = 11;
+            // 
+            // tbxNumber
+            // 
+            this.tbxNumber.Location = new System.Drawing.Point(12, 290);
+            this.tbxNumber.Name = "tbxNumber";
+            this.tbxNumber.Size = new System.Drawing.Size(63, 21);
+            this.tbxNumber.TabIndex = 6;
+            this.tbxNumber.Text = "1";
+            // 
+            // btnSelectNumber
+            // 
+            this.btnSelectNumber.Location = new System.Drawing.Point(94, 290);
+            this.btnSelectNumber.Name = "btnSelectNumber";
+            this.btnSelectNumber.Size = new System.Drawing.Size(134, 23);
+            this.btnSelectNumber.TabIndex = 8;
+            this.btnSelectNumber.Text = "선택 번호 뽑기문";
+            this.btnSelectNumber.UseVisualStyleBackColor = true;
+            this.btnSelectNumber.Click += new System.EventHandler(this.btnSelectNumber_Click);
+            // 
+            // btnLottoNumber
+            // 
+            this.btnLottoNumber.Location = new System.Drawing.Point(285, 15);
+            this.btnLottoNumber.Name = "btnLottoNumber";
+            this.btnLottoNumber.Size = new System.Drawing.Size(106, 23);
+            this.btnLottoNumber.TabIndex = 9;
+            this.btnLottoNumber.Text = "로또 번호";
+            this.btnLottoNumber.UseVisualStyleBackColor = true;
+            this.btnLottoNumber.Click += new System.EventHandler(this.btnLottoNumber_Click);
+            // 
+            // lbxResult
+            // 
+            this.lbxResult.FormattingEnabled = true;
+            this.lbxResult.ItemHeight = 12;
+            this.lbxResult.Location = new System.Drawing.Point(12, 48);
+            this.lbxResult.Name = "lbxResult";
+            this.lbxResult.Size = new System.Drawing.Size(260, 196);
+            this.lbxResult.TabIndex = 7;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(16, 265);
+            this.label1.Location = new System.Drawing.Point(12, 265);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(174, 12);
-            this.label1.TabIndex = 0;
+            this.label1.TabIndex = 4;
             this.label1.Text = "1~100 안의 숫자를 선택 하세요";
             // 
-            // tbxNumber
+            // lblLottoResult
             // 
-            this.tbxNumber.Location = new System.Drawing.Point(16, 290);
-            this.tbxNumber.Name = "tbxNumber";
-            this.tbxNumber.Size = new System.Drawing.Size(63, 21);
-            this.tbxNumber.TabIndex = 1;
-            this.tbxNumber.Text = "1";
+            this.lblLottoResult.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.lblLottoResult.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.lblLottoResult.Location = new System.Drawing.Point(12, 13);
+            this.lblLottoResult.Name = "lblLottoResult";
+            this.lblLottoResult.Size = new System.Drawing.Size(260, 27);
+            this.lblLottoResult.TabIndex = 5;
+            this.lblLottoResult.Text = "0. 0. 0. 0. 0. 0.";
+            this.lblLottoResult.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // btnDoWhileResult
+            // MainForm
             // 
-            this.btnDoWhileResult.Location = new System.Drawing.Point(98, 290);
-            this.btnDoWhileResult.Name = "btnDoWhileResult";
-            this.btnDoWhileResult.Size = new System.Drawing.Size(134, 23);
-            this.btnDoWhileResult.TabIndex = 2;
-            this.btnDoWhileResult.Text = "선택 번호 뽑기문";
-            this.btnDoWhileResult.UseVisualStyleBackColor = true;
-            this.btnDoWhileResult.Click += new System.EventHandler(this.btnDoWhileResult_Click);
-            // 
-            // lblDoWhileResult
-            // 
-            this.lblDoWhileResult.AutoSize = true;
-            this.lblDoWhileResult.Location = new System.Drawing.Point(16, 323);
-            this.lblDoWhileResult.Name = "lblDoWhileResult";
-            this.lblDoWhileResult.Size = new System.Drawing.Size(11, 12);
-            this.lblDoWhileResult.TabIndex = 3;
-            this.lblDoWhileResult.Text = "-";
-            // 
-            // Form1
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(407, 347);
-            this.Controls.Add(this.lblDoWhileResult);
+            this.ClientSize = new System.Drawing.Size(407, 349);
+            this.Controls.Add(this.lblSelectNumberResult);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.tbxNumber);
-            this.Controls.Add(this.btnDoWhileResult);
-            this.Controls.Add(this.btnWhileResult);
-            this.Controls.Add(this.lbxwhileResult);
+            this.Controls.Add(this.btnSelectNumber);
+            this.Controls.Add(this.btnLottoNumber);
+            this.Controls.Add(this.lbxResult);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.lblwhileResult);
-            this.Name = "Form1";
-            this.Text = "로또번호생성기";
+            this.Controls.Add(this.lblLottoResult);
+            this.Name = "MainForm";
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
+
         #endregion
 
-        private System.Windows.Forms.Label lblwhileResult;
-        private System.Windows.Forms.ListBox lbxwhileResult;
-        private System.Windows.Forms.Button btnWhileResult;
+        private System.Windows.Forms.Label lblSelectNumberResult;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Label lblDoWhileResult;
-        private System.Windows.Forms.Button btnDoWhileResult;
         private System.Windows.Forms.TextBox tbxNumber;
+        private System.Windows.Forms.Button btnSelectNumber;
+        private System.Windows.Forms.Button btnLottoNumber;
+        private System.Windows.Forms.ListBox lbxResult;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblLottoResult;
     }
 }
 
