@@ -1,0 +1,10 @@
+C:\Users\jhm\Desktop\Project\Git\Portfolio\DrawMove\DrawMove\DrawMove\obj\Debug\DrawMove.csprojAssemblyReference.cache
+C:\Users\jhm\Desktop\Project\Git\Portfolio\DrawMove\DrawMove\DrawMove\obj\Debug\DrawMove.FormMain.resources
+C:\Users\jhm\Desktop\Project\Git\Portfolio\DrawMove\DrawMove\DrawMove\obj\Debug\DrawMove.Properties.Resources.resources
+C:\Users\jhm\Desktop\Project\Git\Portfolio\DrawMove\DrawMove\DrawMove\obj\Debug\DrawMove.csproj.GenerateResource.cache
+C:\Users\jhm\Desktop\Project\Git\Portfolio\DrawMove\DrawMove\DrawMove\obj\Debug\DrawMove.csproj.CoreCompileInputs.cache
+C:\Users\jhm\Desktop\Project\Git\Portfolio\DrawMove\DrawMove\DrawMove\bin\Debug\DrawMove.exe.config
+C:\Users\jhm\Desktop\Project\Git\Portfolio\DrawMove\DrawMove\DrawMove\bin\Debug\DrawMove.exe
+C:\Users\jhm\Desktop\Project\Git\Portfolio\DrawMove\DrawMove\DrawMove\bin\Debug\DrawMove.pdb
+C:\Users\jhm\Desktop\Project\Git\Portfolio\DrawMove\DrawMove\DrawMove\obj\Debug\DrawMove.exe
+C:\Users\jhm\Desktop\Project\Git\Portfolio\DrawMove\DrawMove\DrawMove\obj\Debug\DrawMove.pdb
